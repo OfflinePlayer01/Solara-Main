@@ -1,0 +1,7 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Solara Attached!";
+    Text = "You Can Execute A Script Now :)"; 
+    Button1 = "Okay !"
+})
+print("Solara Attached!")
+print("You Can Execute A Script Now :)")
