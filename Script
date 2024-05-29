@@ -1,7 +1,7 @@
-game.StarterGui:SetCore("SendNotification", {
-    Title = "Solara Attached!";
-    Text = "You Can Execute A Script Now :)"; 
-    Button1 = "Okay !"
-})
-print("Solara Attached!")
-print("You Can Execute A Script Now :)")
+        game:GetService("StarterGui"):SetCore("SendNotification", { 
+        Title = "Notification";
+        Text = "⭐ Solara Attached ⭐";
+        Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+    Duration = 5;
+print("Notification")
+print("⭐ Solara Attached ⭐")
