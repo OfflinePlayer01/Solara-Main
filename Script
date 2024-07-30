@@ -1,6 +1,6 @@
         game:GetService("StarterGui"):SetCore("SendNotification", { 
-        Title = "Solara Attached";
-        Text = "Enjoy!";
+        Title = "Solara";
+        Text = "Attached";
         Icon = "rbxthumb://type=Asset&id=18349437200&w=150&h=150"})
     Duration = 5;
     print("Solara")
